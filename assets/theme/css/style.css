@@ -414,8 +414,7 @@ nav .mbr-section-btn {
 }
 
 .mbr-arrow-up a {
-  /*! background: rgba(0, 0, 0, 0.2); */
-  background: #ff0000;
+  background: rgba(255, 0, 0, 0.9);
   border-radius: 50%;
   color: #fff;
   display: inline-block;
@@ -430,8 +429,7 @@ nav .mbr-section-btn {
   text-align: center;
 }
 .mbr-arrow-up a:hover {
-  /*! background-color: rgba(0, 0, 0, 0.4); */
-  background: #4169e1;
+  background-color: rgba(65, 105, 225, 0.9);
 }
 .mbr-arrow-up a i {
   line-height: 60px;
